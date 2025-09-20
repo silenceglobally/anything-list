@@ -89,7 +89,7 @@ export default {
         list: [],
         staff: [],
         errors: [],
-        selected: 0,
+        selected: 1,
         store,
         searchQuery: '',
         sortOption: 0,
